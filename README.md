@@ -14,30 +14,18 @@ EndlessPixel is a comprehensive Minecraft modpack designed to enhance your gamep
 - **Fabric Loader**: 0.16.14
 - **Java Version**: Java 17 or higher
 
-## Installation Guide
-1. **Install Minecraft**: Ensure you have Minecraft 1.21.4 installed.
-2. **Install Fabric Loader**: Download and install the Fabric Loader version 0.16.14 from the [Fabric website](https://fabricmc.net/use/).
-3. **Download EndlessPixel**: Download the latest version of EndlessPixel from the [Releases page](https://github.com/EndlessPixel/EndlessPixel-Modpack/releases).
-4. **Extract the Zip File**: Extract the downloaded zip file to your Minecraft mods folder.
-5. **Launch Minecraft**: Launch Minecraft and select the Fabric profile to start playing with EndlessPixel.
-
 ## Latest Release
-- **Version**: 1.21.4-v5-1.1
-- **Release Notes**: [View Release Notes](https://github.com/EndlessPixel/EndlessPixel-Modpack/releases/tag/v5-1.1)
+- **Release Notes**: [View Release Notes](https://github.com/EndlessPixel/EndlessPixel-Modpack/releases/Latest)
 
 ## Getting Support
 If you encounter any issues or have questions, feel free to:
 - Open an issue on the [GitHub Issues page](https://github.com/EndlessPixel/EndlessPixel-Modpack/issues).
-- Join our community on [Discord](https://discord.gg/yourdiscordlink) for real-time support and discussions.
 
 ## Contributing
 We welcome contributions from the community! If you'd like to contribute, please:
 - Fork the repository.
 - Make your changes and submit a pull request.
 - Ensure your changes follow our coding guidelines and include tests if applicable.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 - **Fabric Team**: For creating and maintaining the Fabric Loader.
