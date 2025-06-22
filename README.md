@@ -10,9 +10,7 @@ EndlessPixel is a comprehensive Minecraft modpack designed to enhance your gamep
 - **Regular Updates**: Frequent updates to keep the modpack fresh and bug-free.
 
 ## System Requirements
-- **Minecraft Version**: 1.21.4
-- **Fabric Loader**: 0.16.14
-- **Java Version**: Java 17 or higher
+- **Java Version**: Java 21 or higher
 
 ## Latest Release
 - **Release Notes**: [View Release Notes](https://github.com/EndlessPixel/EndlessPixel-Modpack/releases/Latest)
