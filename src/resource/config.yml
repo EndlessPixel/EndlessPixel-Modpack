@@ -1,3 +1,4 @@
+# config
 switch: true
 
 list:
@@ -7,10 +8,12 @@ list:
   - 'Minecraft'
   - 'Java'
 edition_list:
-  - '1.21.4'
-  - '1.21.6'
-  - '1.21.8'
-
+  - '1.21.4': "v5"
+  - '1.21.6': "v6"
+  - '1.21.8': "v7"
+  - '1.21.9': "v8"
+  # Up
+  
 metadata: "data"
 
 version: 1
