@@ -1,0 +1,18 @@
+switch: true
+
+list:
+  - 'system_mini'
+  - 'EndlessPixel'
+  - 'Modpack'
+  - 'Minecraft'
+  - 'Java'
+edition_list:
+  - '1.21.4'
+  - '1.21.6'
+  - '1.21.8'
+
+metadata: "data"
+
+version: 1
+
+# I don't know what to write.
