@@ -4,7 +4,7 @@
 EndlessPixel is a comprehensive Minecraft modpack designed to enhance your gameplay experience by introducing a wide array of mods, resource packs, and shader packs. Whether you're looking for utility, optimization, or visual enhancements, EndlessPixel has something to offer every player.
 
 ## Features
-- **Diverse Mod Selection**: Over 100+(1.21.4/1.21.6) 60+(1.21.8) mods to enhance gameplay.
+- **Diverse Mod Selection**: Over 100+(1.21.4/1.21.6) 90+(1.21.8) 20+(1.21.9) mods to enhance gameplay.
 - **Optimized Performance**: Carefully selected mods to ensure smooth performance.
 - **Visual Enhancements**: High-quality resource packs and shader packs for an immersive experience.
 - **Regular Updates**: Frequent updates to keep the modpack fresh and bug-free.
@@ -12,8 +12,9 @@ EndlessPixel is a comprehensive Minecraft modpack designed to enhance your gamep
 ## System Requirements
 - **Java Version**: Java 21 or higher
 
-## Latest Release
-- **Release Notes**: [View Release Notes](https://github.com/EndlessPixel/EndlessPixel-Modpack/releases/Latest)
+## Download
+- **Release Download**: [Release Download](https://github.com/EndlessPixel/EndlessPixel-Modpack/releases/)
+- **Official Websitle Download**: [Official Websitle Download](https://ep.endlesspixel.fun/downloads/)
 
 ## Getting Support
 If you encounter any issues or have questions, feel free to:
