@@ -23,7 +23,7 @@ Runtime Environment
 
 Update Policy
 
-EndlessPixel Studio regularly checks for updates to mods, resource packs, and shader packs within the modpack. We add new mods based on community feedback and current mod version compatibility, while removing outdated or unnecessary mods when appropriate. The modpack typically receives updates every 1-5 days, with longer intervals of 7-14 days occasionally. We strive to closely follow the latest Minecraft versions to ensure you get the best possible experience.
+EndlessPixel Studio regularly checks for updates to mods, resource packs, and shader packs within the modpack. We add new mods based on community feedback and current mod version compatibility, while removing outdated or unnecessary mods when appropriate. The modpack typically receives updates every 1-7 days, with longer intervals of 8-14 days occasionally. We strive to closely follow the latest Minecraft versions to ensure you get the best possible experience.
 
 Download
 
