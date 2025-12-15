@@ -6,7 +6,7 @@ EndlessPixel is a comprehensive Minecraft modpack designed to enhance your gamep
 
 Features
 
-· Diverse Mod Selection: Over 100+(1.21.4/1.21.6) 90+(1.21.8) 50+(1.21.9) 80+(1.21.10) mods to enhance gameplay.
+· Diverse Mod Selection: Over 100+(**1.21.4** / **1.21.6**) 90+(**1.21.8** / **1.21.11**) 50+(**1.21.9**) 80+(**1.21.10**) mods to enhance gameplay.
 · Optimized Performance: Carefully selected mods to ensure smooth performance.
 · Visual Enhancements: High-quality resource packs and shader packs for an immersive experience.
 · Regular Updates: Frequent updates to keep the modpack fresh and bug-free.
