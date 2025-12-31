@@ -23,7 +23,7 @@ The modpack covers five core dimensions: "Survival Enhancement, Performance Opti
 |1.21.8|v7|90+|2.7|
 |1.21.9|v8|50+|1.1|
 |1.21.10|v9|80+|2.0|
-|1.21.11|v10|80+|1.1|
+|1.21.11|v10|80+|1.3|
 ## 2. Optimized Performance for Smooth Gameplay
 
 We have meticulously selected and optimized performance-focused mods (such as Sodium, Lithium, and Starlight) to significantly reduce frame drops and lag. The modpack is compatible with both low and mid-range devices, ensuring a smooth gaming experience even in complex modded environments with rich textures and dynamic effects.
