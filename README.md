@@ -12,18 +12,18 @@ Adhering to the core philosophy of "Stability First, Experience Supreme", each v
 
 The modpack covers five core dimensions: "Survival Enhancement, Performance Optimization, Visual Upgrade, Creative Tools, and Adventure Expansion". We carefully select high-quality, time-tested mods that retain the essence of classic gameplay while introducing new elements to enhance game richness. The number of mods and adaptation information for each version are as follows:
 
-|Minecraft Version|Series|Number of Mods|Newest Edition|
-|---|---|---|---|
-|1.20.1|v1|Files are missing|Files are missing|
-|1.20.6|v2|Files are missing|Files are missing|
-|1.21.1|v3|Files are missing|Files are missing|
-|1.21.4|v4|Files are missing|Files are missing|
-|1.21.4|v5|100+|1.4|
-|1.21.6|v6|100+|b5 (Beta5)|
-|1.21.8|v7|90+|2.7|
-|1.21.9|v8|50+|1.1|
-|1.21.10|v9|80+|2.0|
-|1.21.11|v10|80+|1.3|
+|Minecraft Version|Series|Number of Mods|Newest Edition|Status|
+|---|---|---|---|---|
+|1.20.1|v1|Files are missing|Files are missing|Stop updating|
+|1.20.6|v2|Files are missing|Files are missing|Stop updating|
+|1.21.1|v3|Files are missing|Files are missing|Stop updating|
+|1.21.4|v4|Files are missing|Files are missing|Stop updating|
+|1.21.4|v5|100+|1.4|Slow updating|
+|1.21.6|v6|100+|b5 (Beta5)|Stop updating|
+|1.21.8|v7|90+|2.7|Slow updating|
+|1.21.9|v8|50+|1.1|Stop updating|
+|1.21.10|v9|80+|2.1|Slow updating|
+|1.21.11|v10|80+|1.3|Active|
 ## 2. Optimized Performance for Smooth Gameplay
 
 We have meticulously selected and optimized performance-focused mods (such as Sodium, Lithium, and Starlight) to significantly reduce frame drops and lag. The modpack is compatible with both low and mid-range devices, ensuring a smooth gaming experience even in complex modded environments with rich textures and dynamic effects.
