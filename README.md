@@ -70,7 +70,7 @@ EndlessPixel Studio regularly audits and updates the mods, resource packs, and s
 
 - Release Version Download: [Release Download](https://github.com/EndlessPixel/EndlessPixel-Modpack/releases)
 
-- Official Website Download: [Official Website Download](https://ep.endlesspixel.fun/downloads/modpack)
+- Official Website Download: [Official Website Download](https://www.endlesspixel.fun/downloads/modpack)
 
 ## Frequently Asked Questions (FAQ)
 
