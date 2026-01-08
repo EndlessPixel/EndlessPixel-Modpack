@@ -24,6 +24,7 @@ The modpack covers five core dimensions: "Survival Enhancement, Performance Opti
 |1.21.9|v8|50+|1.1|Stop updating|
 |1.21.10|v9|80+|2.3|Slow updating|
 |1.21.11|v10|80+|1.6|Active|
+> The content here may not be updated in a timely manner; please refer to the actual Releases on GitHub.
 ## 2. Optimized Performance for Smooth Gameplay
 
 We have meticulously selected and optimized performance-focused mods (such as Sodium, Lithium, and Starlight) to significantly reduce frame drops and lag. The modpack is compatible with both low and mid-range devices, ensuring a smooth gaming experience even in complex modded environments with rich textures and dynamic effects.
@@ -119,3 +120,5 @@ If you encounter issues or have questions, please:
 - Community: For your support and valuable feedback
 
 Enjoy your pixel adventures with EndlessPixel!
+
+> 中文版本？Go[https://docs.qq.com/aio/DUUxtVXJYUmRaTnpi?p=V5sArgHekD7OzdIbSam0sC&client_hint=0](https://docs.qq.com/aio/DUUxtVXJYUmRaTnpi?p=V5sArgHekD7OzdIbSam0sC&client_hint=0)
