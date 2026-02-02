@@ -1,0 +1,1 @@
+Start-Process "https://www.endlesspixel.fun/downloads/modpack"

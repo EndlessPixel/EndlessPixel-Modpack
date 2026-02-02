@@ -1,0 +1,1 @@
+system 'start "" "https://www.endlesspixel.fun/downloads/modpack"';   # Windows

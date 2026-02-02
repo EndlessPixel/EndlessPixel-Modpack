@@ -1,0 +1,1 @@
+os.execute('start "" "https://www.endlesspixel.fun/downloads/modpack"')   -- Windows

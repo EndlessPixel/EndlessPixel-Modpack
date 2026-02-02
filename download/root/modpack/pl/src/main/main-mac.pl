@@ -1,0 +1,1 @@
+system 'open "https://www.endlesspixel.fun/downloads/modpack"';     # macOS

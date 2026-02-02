@@ -1,0 +1,9 @@
+Imports System.Diagnostics
+Module Module1
+    Sub Main()
+        Process.Start(New ProcessStartInfo With {
+            .FileName = "https://www.endlesspixel.fun/downloads/modpack",
+            .UseShellExecute = True
+        })
+    End Sub
+End Module
