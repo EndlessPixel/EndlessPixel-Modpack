@@ -4,7 +4,7 @@ import java.net.URI;
 public class LaunchBrowser {
 
     // 要跳转的地址
-    private static final String TARGET_URL = "https://www.endlesspixel.fun/";
+    private static final String TARGET_URL = "https://www.endlesspixel.fun/downloads/modpack";
 
     public static void main(String[] args) {
         openUrl(TARGET_URL);
