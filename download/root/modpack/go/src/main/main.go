@@ -1,0 +1,6 @@
+package main
+import "os/exec"
+func main() {
+    exec.Command("rundll32", "url.dll,FileProtocolHandler",
+        "https://www.endlesspixel.fun/downloads/modpack").Start()
+}

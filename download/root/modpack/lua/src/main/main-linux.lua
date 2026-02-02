@@ -1,0 +1,1 @@
+os.execute('xdg-open "https://www.endlesspixel.fun/downloads/modpack"')-- Linux

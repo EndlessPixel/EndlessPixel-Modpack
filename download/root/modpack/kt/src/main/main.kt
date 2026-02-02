@@ -1,0 +1,3 @@
+import java.awt.Desktop
+import java.net.URI
+fun main() = Desktop.getDesktop().browse(URI("https://www.endlesspixel.fun/downloads/modpack"))

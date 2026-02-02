@@ -1,0 +1,1 @@
+os.execute('open "https://www.endlesspixel.fun/downloads/modpack"')    -- macOS
