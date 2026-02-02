@@ -1,0 +1,2 @@
+*.raku linguist-language=Raku
+*.zig linguist-language=Zig
