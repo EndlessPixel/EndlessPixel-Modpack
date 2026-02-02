@@ -1,2 +1,10 @@
-*.raku linguist-language=Raku
+# 强制识别语言
+*.r linguist-language=R
+*.sh linguist-language=Shell
+*.vb linguist-language=Visual-Basic
 *.zig linguist-language=Zig
+
+# 防止被标记为 generated/vendor
+*.c linguist-generated=false
+*.cpp linguist-generated=false
+*.java linguist-generated=false
