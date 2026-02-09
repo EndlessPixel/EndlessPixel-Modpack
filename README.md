@@ -1,5 +1,8 @@
 # EndlessPixel Modpack
 
+[![Minecraft Version](https://img.shields.io/badge/Minecraft-1.21.11%20|%201.21.10%20|%201.21.9%20|%201.21.8%20|%201.21.6%20|%201.21.4-00AA00?logo=minecraft)](https://www.minecraft.net)
+[![License](https://img.shields.io/badge/License-MIT-007098)](LICENSE)
+
 # About EndlessPixel
 
 EndlessPixel is a comprehensive Minecraft modpack designed to elevate your gameplay experience. It integrates a diverse collection of mods, resource packs, and shader packs, catering to different player needs—whether you seek utility enhancements, performance optimization, or immersive visual upgrades, EndlessPixel has you covered.
