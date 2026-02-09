@@ -6,6 +6,8 @@ EndlessPixel is a comprehensive Minecraft modpack designed to elevate your gamep
 
 Adhering to the core philosophy of "Stability First, Experience Supreme", each version of the modpack undergoes multiple rounds of stress testing. We strive to avoid common issues such as mod conflicts and game crashes, allowing players to enjoy the complete modded gaming experience directly without spending a lot of time debugging configurations.
 
+<img width="1376" height="614" alt="F1F336C1FC060AB4F5055B6877AF8C7B" src="https://github.com/user-attachments/assets/1278fb19-e28a-44a6-ae9a-b7ead28d403a" />
+
 # Key Features
 
 ## 1. Diverse Mod Selection for All Gameplay Scenarios
@@ -23,7 +25,7 @@ The modpack covers five core dimensions: "Survival Enhancement, Performance Opti
 |1.21.8|v7|90+|2.7|Slow updating|
 |1.21.9|v8|50+|1.1|Stop updating|
 |1.21.10|v9|80+|2.4|Slow updating|
-|1.21.11|v10|80+|2.5|Active|
+|1.21.11|v10|80+|2.6|Active|
 > The content here may not be updated in a timely manner; please refer to the actual Releases on GitHub.
 ## 2. Optimized Performance for Smooth Gameplay
 
