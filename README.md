@@ -11,6 +11,12 @@ Adhering to the core philosophy of "Stability First, Experience Supreme", each v
 
 <img width="1376" height="614" alt="F1F336C1FC060AB4F5055B6877AF8C7B" src="https://github.com/user-attachments/assets/1278fb19-e28a-44a6-ae9a-b7ead28d403a" />
 
+> **Hardware**: **CPU**: Intel(R) Core(TM) I5-12450H  **MEM**: 16GB DDR4  **DISK**: 512GB SSD  **GPU**: Intel(R) UHD Graphics
+> 
+> In addition, there is also a Minecraft server running in the background.
+>
+> Server Config: simulation-distance=8 | view-distance=8
+
 # Key Features
 
 ## 1. Diverse Mod Selection for All Gameplay Scenarios
