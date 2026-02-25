@@ -34,7 +34,7 @@ The modpack covers five core dimensions: "Survival Enhancement, Performance Opti
 |1.21.8|v7|90+|2.7|Slow updating|
 |1.21.9|v8|50+|1.1|Stop updating|
 |1.21.10|v9|80+|2.5|Stop updating|
-|1.21.11|v10|80+|2.8|Active|
+|1.21.11|v10|80+|2.9|Active|
 > The content here may not be updated in a timely manner; please refer to the actual Releases on GitHub.
 ## 2. Optimized Performance for Smooth Gameplay
 
