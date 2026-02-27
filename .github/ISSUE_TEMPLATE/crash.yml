@@ -16,3 +16,6 @@ body:
   - type: markdown
     attributes:
       value: "Please describe the crash..."
+      placeholder: "Please describe the crash..."
+    validations:
+      required: true
