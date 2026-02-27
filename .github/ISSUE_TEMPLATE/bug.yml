@@ -1,0 +1,17 @@
+name: Bug
+description: Error or malfunctioning feature
+title: "[Bug] "
+labels:
+  - bug
+
+body:
+  - type: checkboxes
+    id: pre-check
+    attributes:
+      label: Pre-submission Checklist
+      options:
+        - label: I have checked the issues and FAQ and confirmed that this problem has never been submitted before.
+          required: true
+  - type: markdown
+    attributes:
+      value: "Please describe the bug..."
