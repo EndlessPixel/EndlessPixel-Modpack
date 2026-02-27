@@ -8,6 +8,3 @@ body:
   - type: markdown
     attributes:
       value: "Please describe the request..."
-      placeholder: "Please describe the request..."
-    validations:
-      required: true

@@ -15,6 +15,3 @@ body:
   - type: markdown
     attributes:
       value: "Please describe the bug..."
-      placeholder: "Please describe the bug..."
-    validations:
-      required: true
