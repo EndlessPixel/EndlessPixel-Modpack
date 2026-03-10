@@ -1,0 +1,33 @@
+name: "Bug Report"
+description: ""
+labels: [bug]
+body:
+- type: checkboxes
+  id: "yml-1"
+  attributes:
+    label: "Check"
+    options:
+    - label: "我已在 [Issues 页面](https://github.com/EndlessPixel/EndlessPixel-Modpack/issues)中搜索，确认了这一 Bug 未被提交过。"
+      required: true
+- type: textarea
+  id: "yml-2"
+  attributes:
+    label: Describe
+    description: ""
+  validations:
+    required: true
+- type: textarea
+  id: "yml-3"
+  attributes:
+    label: Step
+    description: ""
+  validations:
+    required: true
+- type: textarea
+  id: "yml-4"
+  attributes:
+    label: File
+    description: ""
+  validations:
+    required: false   
+     
