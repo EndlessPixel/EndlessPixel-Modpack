@@ -1,0 +1,36 @@
+name: "Feature Request"
+description: "Suggest a new feature or improvement for EndlessPixel Modpack."
+title: "[Request] "
+labels: [request]
+body:
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: "Confirmation"
+      options:
+        - label: "I have searched existing requests and this is not a duplicate."
+          required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: "Feature Description"
+      description: "What do you want to add or change?"
+    validations:
+      required: true
+
+  - type: textarea
+    id: reason
+    attributes:
+      label: "Why this feature?"
+      description: "Explain why it would be useful."
+    validations:
+      required: true
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: "Additional Details (optional)"
+      description: "Examples, screenshots, or related mods."
+    validations:
+      required: false

@@ -1,0 +1,66 @@
+name: "Bug Report"
+description: "Report a bug or unintended behavior in the EndlessPixel Modpack."
+title: "[Bug] "
+labels: [bug]
+body:
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: "Confirmation"
+      options:
+        - label: "I have searched existing issues and FAQ and confirmed this bug has not been reported before."
+          required: true
+
+  - type: input
+    id: modpack-version
+    attributes:
+      label: "EndlessPixel Modpack Version"
+      placeholder: "e.g. 1.21.11-v10-3.0"
+      description: "❌ Do NOT use Latest / partial versions (1.2 / 1.21). ✅ Enter the FULL version (e.g. 1.21.11-v10-3.0) - partial numbers make it impossible to identify your version."
+    validations:
+      required: true
+
+  - type: input
+    id: java-version
+    attributes:
+      label: "Java Version"
+      placeholder: "e.g. 21.0.1LTS"
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: "Bug Description"
+      description: "Clearly describe what the bug is and what happens."
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: "Steps to Reproduce"
+      description: "List exact steps to make the bug happen."
+      value: |
+        1. Start Game
+        2. Enter server/world
+        3. Perform a certain operation
+        4. Game crash/freeze/unresponsive/abnormal
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: "Expected Behavior"
+      description: "What should happen instead?"
+    validations:
+      required: true
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: "Logs or Screenshots (optional)"
+      description: "Paste logs, crash reports, or upload images."
+    validations:
+      required: false

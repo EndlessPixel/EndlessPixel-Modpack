@@ -1,0 +1,52 @@
+name: "Crash Report"
+description: "Report a game crash or fatal error in EndlessPixel Modpack."
+title: "[Crash] "
+labels: [crash]
+body:
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: "Confirmation"
+      options:
+        - label: "I have checked existing issues and this crash is not already reported."
+          required: true
+
+  - type: input
+    id: modpack-version
+    attributes:
+      label: "EndlessPixel Modpack Version"
+      placeholder: "e.g. 1.21.11-v10-3.0"
+      description: "Latest is not a version number, which leaves us at a loss on how to proceed. Please provide the actual version number."
+    validations:
+      required: true
+
+  - type: input
+    id: java-version
+    attributes:
+      label: "Java Version"
+      placeholder: "e.g. 21.0.1LTS"
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: "Crash Description"
+      description: "When did the crash happen?"
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: "Steps to Cause Crash"
+    validations:
+      required: true
+
+  - type: textarea
+    id: crash-log
+    attributes:
+      label: "Crash Log / Latest.log"
+      description: "Please paste FULL crash report or use mclo.gs / pastebin."
+    validations:
+      required: true
