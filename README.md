@@ -43,7 +43,7 @@ The modpack covers five core dimensions: "Survival Enhancement, Performance Opti
 |1.21.8|v7|90+|2.7|Slow updating|
 |1.21.9|v8|50+|1.1|Discontinued|
 |1.21.10|v9|80+|2.5|Discontinued|
-|1.21.11|v10|70+|2.9|Active|
+|1.21.11|v10|70+|3.1|Active|
 
 > The content here may not be updated in a timely manner; please refer to the actual Releases on GitHub for the latest information.
 
