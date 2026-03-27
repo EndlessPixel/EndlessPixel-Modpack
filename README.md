@@ -1,6 +1,6 @@
 # EndlessPixel Modpack
 
-[![Minecraft Version](https://img.shields.io/badge/Minecraft-1.21.11%20|%201.21.10%20|%201.21.9%20|%201.21.8%20|%201.21.6%20|%201.21.4-00AA00?logo=minecraft)](https://www.minecraft.net)
+[![Minecraft Version](https://img.shields.io/badge/Minecraft-26.1%20|%201.21.11%20|%201.21.10%20|%201.21.9%20|%201.21.8%20|%201.21.6%20|%201.21.4-00AA00?logo=minecraft)](https://www.minecraft.net)
 [![License](https://img.shields.io/badge/License-MIT-007098)](LICENSE)
 
 ## Table of Contents
@@ -45,8 +45,8 @@ The modpack covers five core dimensions: "Survival Enhancement, Performance Opti
 |1.21.8|v7|90+|2.7|Discontinued|
 |1.21.9|v8|50+|1.1|Discontinued|
 |1.21.10|v9|80+|2.5|Discontinued|
-|1.21.11|v10|70+|3.2|Active|
-|26.1|v11|N/A|N/A|Waiting Release|
+|1.21.11|v10|70+|3.3|Active|
+|26.1|v11|30+|a1(Alpha1)|Active|
 
 > The content here may not be updated in a timely manner; please refer to the actual Releases on GitHub for the latest information.
 
@@ -68,10 +68,6 @@ We provide frequent updates to keep the modpack fresh and compatible. Updates in
 
 - For **Minecraft 1.21.4 ~ 1.21.11**: Use **Java 21** or higher
 - For **Minecraft 26.1+**: Use **Java 25** or higher
-
-*Note: Minecraft 26.1 is a pre-release/snapshot version, and we haven't released any modpack versions for it yet.*
-
-> Important Note: Minecraft 26.1 is currently a pre-release snapshot, and its official version has not been released. The above Java version requirement is for reference only. Pre-release versions are unstable and may have compatibility issues. We recommend using officially released Minecraft versions (1.21.4 ~ 1.21.11) for a stable experience.
 
 ### Java Download Links
 
@@ -108,5 +104,3 @@ If you encounter issues or have questions, please:
 ---
 
 Enjoy your pixel adventures with EndlessPixel!
-
-> 中文版本？[点击这里](https://docs.qq.com/aio/DUUxtVXJYUmRaTnpi?p=V5sArgHekD7OzdIbSam0sC&client_hint=0)
