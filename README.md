@@ -23,17 +23,18 @@ The modpack covers five core dimensions: "Survival Enhancement, Performance Opti
 
 |Minecraft Version|Pack Series|Mod Count|Latest Release|Support Status|
 |---|---|---|---|---|
-|1\.20\.1|v1|N/A|N/A|Discontinued|
-|1\.20\.6|v2|N/A|N/A|Discontinued|
-|1\.21\.1|v3|N/A|N/A|Discontinued|
-|1\.21\.4|v4|N/A|N/A|Discontinued|
-|1\.21\.4|v5|100\+|1\.4|Discontinued|
-|1\.21\.6|v6|100\+|b5 \(Beta5\)|Discontinued|
-|1\.21\.8|v7|90\+|2\.7|Discontinued|
-|1\.21\.9|v8|50\+|1\.1|Discontinued|
-|1\.21\.10|v9|80\+|2\.5|Discontinued|
-|1\.21\.11|v10|70\+|3\.3|Pending Discontinuation \(End of Life Soon\)|
-|26\.1|v11|40\+|a3 \(Alpha3\)|Active \(Latest Early Alpha\)|
+|1.20.1|v1|N/A|N/A|Discontinued|
+|1.20.6|v2|N/A|N/A|Discontinued|
+|1.21.1|v3|N/A|N/A|Discontinued|
+|1.21.4|v4|N/A|N/A|Discontinued|
+|1.21.4|v5|100+|1.4|Discontinued|
+|1.21.6|v6|100+|b5 (Beta5)|Discontinued|
+|1.21.8|v7|90+|2.7|Discontinued|
+|1.21.9|v8|50+|1.1|Discontinued|
+|1.21.10|v9|80+|2.5|Discontinued|
+|1.21.11|v10|70+|3.3|Pending Discontinuation (End of Life Soon)|
+|26.1|v11|40+|a3 (Alpha3)|Deprecated Early Alpha|
+|**26.1.1**|**v12**|**40+**|**a1 (Alpha1)**|**Active (Latest Official Alpha Baseline)**|
 
 **Notice**: Version and mod count data may be updated periodically\. For the most accurate, up\-to\-date details, refer to the official GitHub Releases page\.
 
