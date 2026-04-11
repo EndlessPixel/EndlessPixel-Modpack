@@ -1,6 +1,6 @@
 # EndlessPixel Modpack
 
-[![Minecraft Version](https://img.shields.io/badge/Minecraft-26.1%20|%201.21.11%20|%201.21.10%20|%201.21.9%20|%201.21.8%20|%201.21.6%20|%201.21.4-00AA00?logo=minecraft)](https://www.minecraft.net)
+[![Minecraft Version](https://img.shields.io/badge/Minecraft-26.1.x%20|%201.21.x-00AA00?logo=minecraft)](https://www.minecraft.net)
 [![License](https://img.shields.io/badge/License-MIT-007098)](LICENSE)
 
 - [Frequently Asked Questions (FAQ)](./FAQ.md)
@@ -34,7 +34,8 @@ The modpack covers five core dimensions: "Survival Enhancement, Performance Opti
 |1.21.10|v9|80+|2.5|Discontinued|
 |1.21.11|v10|70+|3.3|Pending Discontinuation (End of Life Soon)|
 |26.1|v11|40+|a3 (Alpha3)|Deprecated Early Alpha|
-|**26.1.1**|**v12**|**40+**|**a1 (Alpha1)**|**Active (Latest Official Alpha Baseline)**|
+|26.1.1|v12|40+|a1 (Alpha1)|Deprecated Early Alpha|
+|26.1.2|v13|40+|a1 (Alpha1)|Active (Latest Official Alpha Baseline)|
 
 **Notice**: Version and mod count data may be updated periodically\. For the most accurate, up\-to\-date details, refer to the official GitHub Releases page\.
 
