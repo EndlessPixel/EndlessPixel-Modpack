@@ -58,8 +58,8 @@ The pack receives consistent updates to stay compatible with the latest Minecraf
 
 ### Java Download Links
 
-- **Oracle Java 21**: [Windows-MSI](https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.msi) | [Windows-EXE](https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.exe) | [Official Download Page](https://www.oracle.com/java/technologies/downloads/#java21)
-- **Oracle Java 25**: [Windows-MSI](https://download.oracle.com/java/25/latest/jdk-25_windows-x64_bin.msi) | [Windows-EXE](https://download.oracle.com/java/25/latest/jdk-25_windows-x64_bin.exe) | [Official Download Page](https://www.oracle.com/java/technologies/downloads/#java25)
+- **Azul Zulu JDK 25**: [Windows-ZIP](https://cdn.azul.com/zulu/bin/zulu25.34.17-ca-jdk25.0.3-win_x64.zip) | [Windows-MSI](https://cdn.azul.com/zulu/bin/zulu25.34.17-ca-jdk25.0.3-win_x64.msi)
+- **Azul Zulu JDK 21**: [Windows-ZIP](https://cdn.azul.com/zulu/bin/zulu21.50.19-ca-jdk21.0.11-win_x64.zip) | [Windows-MSI](https://cdn.azul.com/zulu/bin/zulu21.50.19-ca-jdk21.0.11-win_x64.msi)
 
 ### Runtime \&amp; Deployment
 
