@@ -41,3 +41,15 @@ The retention of older-version mods is a deliberate, test-verified decision:
 
 - **Modpack-specific issues**: We aim to roll out a hotfix or patch update within **1–2 weeks** (3–5 business days for critical bugs)
 - **Upstream-related issues**: We will report the bug to the relevant developers and monitor the progress of the official fix
+
+### 8. What is the versioning scheme of the modpack?
+
+The modpack follows a three-stage release cycle: **Alpha**, **Beta**, and **Stable (Release)**.
+
+- **Alpha phase**: Focuses on including all planned mods. Once the mod completion rate reaches 95%, the version transitions to Beta.
+- **Beta phase**: Concentrates on polishing features, fixing bugs, continuing to add remaining mods, and adjusting the mod list to better suit the target Minecraft version.
+- **Stable (Release) phase**: Handles regular iterative updates, minor patches, major bug fixes, and hotfixes as needed.
+
+### 9. What determines the lifecycle of the modpack?
+
+The lifecycle of the modpack is directly tied to our server's version number. When our server upgrades to a new major Minecraft version, the corresponding modpack version reaches its end of life and development shifts to the next major version. In other words, support for the old version is discontinued once the server moves forward.
