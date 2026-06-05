@@ -7,96 +7,77 @@
 
 ## About EndlessPixel
 
-EndlessPixel is a well\-rounded Minecraft modpack built to elevate and refine your core gameplay experience\. It brings together a curated collection of performance mods, gameplay enhancements, visual overhauls, and utility tools, catering to every type of player—whether you favor casual survival, technical builds, immersive exploration, or smooth low\-spec performance\.
+EndlessPixel is a Minecraft modpack built to enhance and refine your core gameplay experience. It brings together a collection of performance mods, gameplay tweaks, visual upgrades, and utility tools, aiming to serve different play styles—casual survival, technical building, exploration, or low-spec optimization.
 
-Rooted in the philosophy of **Stability First, Experience Supreme**, every release undergoes rigorous stress testing and conflict debugging\. We eliminate common issues like mod crashes, compatibility errors, and lag spikes, letting you jump straight into modded Minecraft without spending hours tweaking config files or troubleshooting conflicts\.
+We follow the idea of **Stability First, Experience Supreme** as a goal, not a guarantee. Each release goes through internal testing and basic conflict checks to reduce common issues like crashes, incompatibilities, or lag spikes. However, no modpack is completely bug-free on all systems. Our aim is to help you spend less time troubleshooting and more time playing.
 
 <img width="966" height="531" alt="E0DEB3175E61B5C393AE80C16CBAD5F7" src="https://github.com/user-attachments/assets/7227fe10-6558-4f8d-898a-52105d68de4f" />
 
-> **Hardware**: **CPU**: Intel(R) Core(TM) I5-12450H  **MEM**: 16GB DDR4  **DISK**: 512GB SSD  **GPU**: Intel(R) UHD Graphics
+> **Reference Hardware**: **CPU**: Intel(R) Core(TM) I5-12450H  **MEM**: 16GB DDR4  **DISK**: 512GB SSD  **GPU**: Intel(R) UHD Graphics
 
 ## Key Features
 
-### 1. Diverse Mod Selection for All Gameplay Scenarios
+### 1. Diverse Mod Selection for Various Playstyles
 
-The modpack covers five core dimensions: "Survival Enhancement, Performance Optimization, Visual Upgrade, Creative Tools, and Adventure Expansion". We carefully select high-quality, time-tested mods that retain the essence of classic gameplay while introducing new elements to enhance game richness. The number of mods and adaptation information for each version are as follows:
+The modpack covers five general areas: Survival Enhancement, Performance Optimization, Visual Upgrade, Creative Tools, and Adventure Expansion. We include mods that are reasonably well-tested and aim to keep the vanilla feel while adding new possibilities. The number of mods and version-specific details are listed below.
 
-|Minecraft Version|Pack Series|Mod Count|Latest Release|Support Status|
-|---|---|---|---|---|
-|1.20.1-1.21.4|v1-v4|N/A|N/A|Discontinued|
-|1.21.4|v5|100+|1.4|Discontinued|
-|1.21.6|v6|100+|b5 (Beta5)|Discontinued|
-|1.21.8|v7|90+|2.7|Discontinued|
-|1.21.9|v8|50+|1.1|Discontinued|
-|1.21.10|v9|80+|2.5|Discontinued|
-|1.21.11|v10|80+|3.7|Pending Discontinuation (End of Life Soon)|
-|26.1|v11|40+|a3 (Alpha3)|Deprecated Early Alpha|
-|26.1.1|v12|40+|a1 (Alpha1)|Deprecated Early Alpha|
-|26.1.2|v13|70+|1.0|Active (Latest)|
+### 2. Performance Tweaks for Smoother Gameplay
 
-**Notice**: Version and mod count data may be updated periodically\. For the most accurate, up\-to\-date details, refer to the official GitHub Releases page\.
+We’ve integrated popular performance mods like Sodium, Lithium, and Starlight, which can help improve frame rates, reduce stuttering, and lower RAM usage on many setups. The pack should work decently on low-end and mid-range hardware, though actual performance depends on your specific system, world generation, and other mods you may add.
 
-### 2\. Performance Optimized for Smooth Gameplay
+### 3. Visuals with a Performance Focus
 
-We’ve integrated industry\-leading performance mods including Sodium, Lithium, and Starlight to drastically improve frame rates, reduce stuttering, and lower RAM usage\. The pack is fully optimized for low\-end and mid\-range hardware, maintaining steady performance even in dense biomes, complex builds, and heavily modded environments\.
+With the Sodium + Iris rendering pipeline, the modpack includes optional visual upgrades: custom resource packs, dynamic lighting, and shader support. You can choose different visual styles, but keep in mind that enabling high-end shaders will affect performance. The default setup tries to balance looks and speed.
 
-### 3\. Immersive, Performance\-Friendly Visuals
+### 4. Regular Updates
 
-Paired with the Sodium \+ Iris rendering pipeline, this modpack includes premium visual upgrades: custom resource packs, dynamic lighting, and shader support\. Choose between photorealistic visuals, soft vanilla\-friendly tones, or stylized cartoon textures—all designed to run smoothly without sacrificing speed\.
-
-### 4\. Regular, Reliable Updates
-
-The pack receives consistent updates to stay compatible with the latest Minecraft versions \(including the new 26\.x year\-based versioning system\)\. Updates include bug fixes, config tweaks, mod updates, and fresh content additions\. Full, detailed changelogs are published alongside every release for full transparency\.
+The pack is updated somewhat regularly to stay compatible with newer Minecraft versions (including the 26.x year-based releases). Updates may include bug fixes, config adjustments, mod updates, or new content. Changelogs are provided for transparency, but update frequency can vary.
 
 ## System Requirements
 
 ### Java Version Mandatory
 
-- **Minecraft 1\.21\.4 \~ 1\.21\.11**: Requires **Java 21** or newer
-
-- **Minecraft 26\.1\+ \(New Year\-Based Versioning\)**: Requires **Java 25** or newer
+- **Minecraft 1.21.4 ~ 1.21.11**: Requires **Java 21** or newer
+- **Minecraft 26.1+ (New Year-Based Versioning)**: Requires **Java 25** or newer
 
 ### Java Download Links
 
 - **Azul Zulu JDK 25**: [Windows-ZIP](https://cdn.azul.com/zulu/bin/zulu25.34.17-ca-jdk25.0.3-win_x64.zip) | [Windows-MSI](https://cdn.azul.com/zulu/bin/zulu25.34.17-ca-jdk25.0.3-win_x64.msi)
 - **Azul Zulu JDK 21**: [Windows-ZIP](https://cdn.azul.com/zulu/bin/zulu21.50.19-ca-jdk21.0.11-win_x64.zip) | [Windows-MSI](https://cdn.azul.com/zulu/bin/zulu21.50.19-ca-jdk21.0.11-win_x64.msi)
 
-### Runtime \&amp; Deployment
+### Runtime & Deployment
 
-- **Client\-Side**: Fully functional standalone—no server installation required
+- **Client-Side**: Works as a standalone client — no server installation required for single-player.
+- **Server-Side**: Optional install; enables full mod features for multiplayer.
 
-- **Server\-Side**: Optional install; unlocks full mod features and cross\-player compatibility
-
-The modpack works perfectly for single\-player and LAN worlds without a dedicated server\. Some advanced multiplayer features may be limited on vanilla servers, but core gameplay remains fully intact\.
+The modpack works for single-player and LAN worlds without a dedicated server. Some multiplayer features may be limited on vanilla servers, but core gameplay should still function.
 
 ### Update Schedule
 
-EndlessPixel Studio maintains frequent updates: typically every 1–7 days for bug fixes and minor improvements, with larger content updates every 8–14 days\. We closely follow official Minecraft releases \(including the new year\-based version system\) to ensure full compatibility and timely support\.
+We try to release updates frequently, but actual intervals depend on available time and the urgency of issues. Smaller fixes may come every few days, while larger updates might take a week or two. We follow official Minecraft releases when possible, but compatibility is not guaranteed instantly.
 
 ## Download
 
-- **Stable \&amp; Tested Releases**: [GitHub Releases](https://github.com/EndlessPixel/EndlessPixel-Modpack/releases)
-
-- **Official Website Download Portal**: [EndlessPixel Downloads](https://www.endlesspixel.cn/downloads/modpack)
+- **Releases (Stable & Tested Builds)**: [GitHub Releases](https://github.com/EndlessPixel/EndlessPixel-Modpack/releases)
+- **Modrinth**: [Modrinth](https://modrinth.com/modpack/endlesspixel-modpack)
+- **Official Website**: [EndlessPixel Downloads](https://www.endlesspixel.cn/downloads/modpack)
 
 ## Getting Support
 
-If you encounter bugs, crashes, compatibility issues, or have questions about setup and usage:
+If you encounter bugs, crashes, or have questions:
 
 - Submit a detailed report on the [GitHub Issues Page](https://github.com/EndlessPixel/EndlessPixel-Modpack/issues)
+- Include your Minecraft version, modpack build, Java version, PC specs, and crash logs (if available)
 
-- Include your Minecraft version, modpack build, Java version, PC specs, and crash logs \(if available\)
+Please note that support is community-driven and provided on a best-effort basis.
 
 ## Acknowledgements
 
-- **Fabric Team**: For developing and maintaining the lightweight, stable Fabric Loader ecosystem
-
-- **All Mod Developers**: For creating, updating, and supporting the high\-quality mods included in this pack
-
-- **Resource \&amp; Shader Creators**: For stunning visual overhauls that enhance the game without compromising performance
-
-- **Community \&amp; Testers**: For valuable feedback, bug reports, and ongoing support
+- **Fabric Team**: For developing and maintaining the Fabric Loader ecosystem
+- **All Mod Developers**: For creating and updating the mods used in this pack
+- **Resource & Shader Creators**: For visual enhancements
+- **Community & Testers**: For feedback, bug reports, and suggestions
 
 ---
 
-Enjoy your endless, smooth, and immersive Minecraft adventure with EndlessPixel\!
+Enjoy your Minecraft adventure with EndlessPixel — we hope it works well for you!
