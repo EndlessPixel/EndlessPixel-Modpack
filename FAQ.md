@@ -2,54 +2,56 @@
 
 ### 1. Why does the series start from v5 instead of v1?
 
-The numbering of this modpack series starts at v5 because it builds on several earlier, non-public development versions that preceded the official launch of the 1.21.4 branch. Specifically:
+The numbering starts at v5 because earlier internal builds preceded the public launch of the 1.21.4 branch:
 
 - We released **1.20.1-v1**, **1.20.6-v2**, and **1.21.1-v3** as internal test builds
-- We developed **1.21.4-v4** as a pilot build, but it suffered from severe mod conflicts and other issues
-- **1.21.4-v5** marked the first stable, polished version suitable for public distribution
+- **1.21.4-v4** was a pilot build that had mod conflicts and other issues
+- **1.21.4-v5** was the first version we considered stable enough for public release
 
 ### 2. How long will it take to update the modpack after Mojang releases a new Minecraft version?
 
-- **Beta versions**: Usually rolled out **within a week** following a new Minecraft version launch
-- **Stable official versions**: Dependent on the update speed of major mod developers
+- **Beta versions**: Usually within **a week** after a new Minecraft release, but no guarantees
+- **Stable versions**: Depends on how quickly major mod developers update their mods
 
-We will only push the official modpack update once all critical mods have been updated and thoroughly tested for stability.
+We'll publish an official update only after critical mods have been updated and basic testing passes. Delays are possible.
 
 ### 3. Why is the number of mods uneven across different series of the modpack?
 
-The discrepancy in mod counts across different modpack series stems from:
-- Each series being tailored to a distinct main Minecraft version
-- Mod development being community-driven and not always in lockstep with Mojang's releases
-- The need to either abandon incompatible mods or adopt alternative ported versions
+Differences in mod counts happen because:
+
+- Each series targets a different Minecraft version
+- Mod updates are community-driven and not always in sync with Mojang
+- Some mods become incompatible and need to be replaced or removed
 
 ### 4. Can OptiFine be added to the modpack?
 
-No, this modpack uses **Sodium + Iris Shaders** as its default rendering core, which is fully incompatible with OptiFine. For shader support, simply place your preferred shader files into the **shaderpacks** folder in the modpack directory.
+No, this modpack uses **Sodium + Iris Shaders** as its rendering core, which is incompatible with OptiFine. For shader support, place your shader files into the **shaderpacks** folder. Compatibility with specific shaders may vary.
 
 ### 5. Will a NeoForge version of the modpack be released in the future?
 
-At present, approximately 80% of the core mods that define this modpack's gameplay experience only maintain active Fabric branches. As a result, we have no concrete migration plan for a NeoForge version in the short term.
+Currently, about 80% of the core mods in this pack only maintain active Fabric branches. We have no immediate plans for a NeoForge version, but that could change if mod support shifts.
 
 ### 6. Why do "old version" mods still remain in the new modpack releases?
 
-The retention of older-version mods is a deliberate, test-verified decision:
-- In some cases, mod developers have not yet released updated versions
-- We conduct rigorous compatibility testing to check if older mod versions can run on new Minecraft versions
-- Once official updated versions are released, we immediately replace the old versions
+Sometimes we keep older mod versions for practical reasons:
+
+- The mod developer hasn't released an updated version yet
+- We test older versions to see if they still work on newer Minecraft (not guaranteed)
+- Once official updates are available, we replace the old versions
 
 ### 7. After a bug is reported by the community, how long will it take to be fixed?
 
-- **Modpack-specific issues**: We aim to roll out a hotfix or patch update within **1–2 weeks** (3–5 business days for critical bugs)
-- **Upstream-related issues**: We will report the bug to the relevant developers and monitor the progress of the official fix
+- **Modpack-specific issues**: We try to release a fix within **1–2 weeks** (critical bugs may be faster, but no promises)
+- **Upstream-related issues**: We'll report the bug to the mod developer and monitor progress. Fix times depend on them.
 
 ### 8. What is the versioning scheme of the modpack?
 
-The modpack follows a three-stage release cycle: **Alpha**, **Beta**, and **Stable (Release)**.
+The pack uses a three-stage cycle: **Alpha**, **Beta**, and **Stable (Release)**.
 
-- **Alpha phase**: Focuses on including all planned mods. Once the mod completion rate reaches 95%, the version transitions to Beta.
-- **Beta phase**: Concentrates on polishing features, fixing bugs, continuing to add remaining mods, and adjusting the mod list to better suit the target Minecraft version.
-- **Stable (Release) phase**: Handles regular iterative updates, minor patches, major bug fixes, and hotfixes as needed.
+- **Alpha**: Focuses on including planned mods. Once mod completion reaches roughly 95%, it moves to Beta.
+- **Beta**: Focuses on polishing, bug fixing, adding remaining mods, and adjusting the mod list.
+- **Stable (Release)**: Handles iterative updates, minor patches, major bug fixes, and hotfixes as needed.
 
 ### 9. What determines the lifecycle of the modpack?
 
-The lifecycle of the modpack is directly tied to our server's version number. When our server upgrades to a new major Minecraft version, the corresponding modpack version reaches its end of life and development shifts to the next major version. In other words, support for the old version is discontinued once the server moves forward.
+The lifecycle is tied to our server's version. When our server upgrades to a new major Minecraft version, we stop active support for the old modpack version and shift development to the next one. Old versions may still work, but we won't provide updates or fixes for them.
