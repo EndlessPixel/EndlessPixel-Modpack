@@ -1,6 +1,9 @@
 # EndlessPixel Modpack
 
 [![Minecraft Version](https://img.shields.io/badge/Minecraft-26.2%20|%2026.1.x%20|%201.21.11~1.21.8%20|%201.21.6%20|%201.21.4-00AA00?logo=minecraft)](https://www.minecraft.net)
+[![Fabric](https://img.shields.io/badge/Mod%20Loader-Fabric-5E9C41?logo=fabric&logoColor=white&style=flat-square)](https://fabricmc.net/)
+[![Modrinth Downloads](https://img.shields.io/modrinth/dt/endlesspixel-modpack?logo=modrinth&logoColor=white&style=flat-square&color=1bd96a)](https://modrinth.com/modpack/endlesspixel-modpack)
+[![Stars](https://img.shields.io/github/stars/EndlessPixel/EndlessPixel-Modpack?style=social)](https://github.com/EndlessPixel/EndlessPixel-Modpack/stargazers)
 [![License](https://img.shields.io/badge/License-MIT-007098)](LICENSE)
 
 - [Frequently Asked Questions (FAQ)](./FAQ.md)
