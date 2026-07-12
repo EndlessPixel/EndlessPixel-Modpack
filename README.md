@@ -1,6 +1,6 @@
 # EndlessPixel Modpack
 
-[![Minecraft Version](https://img.shields.io/badge/Minecraft-26.2%20|%2026.1.x%20|%201.21.x-00AA00?logo=minecraft)](https://www.minecraft.net)
+[![Minecraft Version](https://img.shields.io/badge/Minecraft-26.2%20|%2026.1.x%20|%201.21.11~1.21.8%20|%201.21.6%20|%201.21.4-00AA00?logo=minecraft)](https://www.minecraft.net)
 [![License](https://img.shields.io/badge/License-MIT-007098)](LICENSE)
 
 - [Frequently Asked Questions (FAQ)](./FAQ.md)
