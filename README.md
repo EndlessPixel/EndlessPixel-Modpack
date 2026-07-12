@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/EndlessPixel/EndlessPixel-Modpack?style=social)](https://github.com/EndlessPixel/EndlessPixel-Modpack/stargazers)
 [![License](https://img.shields.io/badge/License-MIT-007098)](LICENSE)
 
-- [Frequently Asked Questions (FAQ)](./FAQ.md)
+- [Frequently Asked Questions (FAQ)](https://github.com/EndlessPixel/EndlessPixel-Modpack/blob/main/FAQ.md)
 
 ## About EndlessPixel
 
