@@ -83,4 +83,4 @@ Please note that support is community-driven and provided on a best-effort basis
 
 ---
 
-Enjoy your Minecraft adventure with EndlessPixel — we hope it works well for you!
+Enjoy your Minecraft adventure with EndlessPixel — we hope it works well for you!!!
